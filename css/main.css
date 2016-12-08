@@ -79,7 +79,9 @@ dt {
 .partial-result {
     font-family: 'Open Sans', sans-serif;
 }
-
+.hide-image{
+  visibility: hidden;
+}
 .top-left {
     float: left;
 }
@@ -491,7 +493,7 @@ ul.calendar {
 }
 
 .news {
-    height: 75px; 
+    height: 75px;
     margin-bottom: 5px;
 }
 
